@@ -74,6 +74,7 @@
 		8D35FE5A2B19332400E77774 = {
 			isa = PBXGroup;
 			children = (
+				8DA10ACB2B1FE94E0003D400 /* Sources */,
 				8D35FE652B19332400E77774 /* TicTacToe */,
 				8D35FE762B19332500E77774 /* TicTacToeTests */,
 				8D35FE802B19332500E77774 /* TicTacToeUITests */,
@@ -125,6 +126,13 @@
 				8D35FE832B19332500E77774 /* TicTacToeUITestsLaunchTests.swift */,
 			);
 			path = TicTacToeUITests;
+			sourceTree = "<group>";
+		};
+		8DA10ACB2B1FE94E0003D400 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Sources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
